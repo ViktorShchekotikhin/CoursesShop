@@ -7,6 +7,6 @@ if (process.env.NODE_ENV === 'production') {
         BASE_URL: process.env.BASE_URL
     };
 } else {
-    module.exports = require('keys.dev')
+    module.exports = require('./keys.dev')
 }
 
