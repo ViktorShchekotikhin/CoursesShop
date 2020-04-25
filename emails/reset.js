@@ -14,7 +14,7 @@ module.exports = function (user, token) {
                 <tr>
                     <td align="center">
                         <table style="border-collapse:collapse;margin:0 auto;" bgcolor="#ee6e73" border="0"
-                            cellpadding="0" cellspacing="0" width="600" summary="layout table">
+                            cellpadding="0" cellspacing="0" width="600" summary="layoutS table">
                             <tbody>
                                 <tr>
                                     <td height="25" bgcolor="#ffffff"></td>
@@ -26,7 +26,7 @@ module.exports = function (user, token) {
                                                 <tbody>
                                                     <tr height="50">
                                                         <td align="center">
-                                                            <img src="${keys.BASE_URL}/public/images/logo.png" alt="courseshop">
+                                                            <img src="${keys.BASE_URL}/images/logo.png" alt="courseshop">
                                                         </td>
                                                     </tr>
                                                 

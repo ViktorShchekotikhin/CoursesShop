@@ -26,7 +26,7 @@ module.exports = function (email, name) {
                                                 <tbody>
                                                     <tr height="50">
                                                         <td align="center">
-                                                            <img src="${keys.BASE_URL}/public/images/logo.png" alt="coursesshop"> 
+                                                            <img src="${keys.BASE_URL}/images/logo.png" alt="coursesshop"> 
                                                         </td>
                                                     </tr>
                                                 
